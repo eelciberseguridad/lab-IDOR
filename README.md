@@ -220,18 +220,6 @@ La aplicación devolverá:
 INFORME CONFIDENCIAL 1001 - EEL CIBERSEGURIDAD
 ```
 
-La dirección del navegador continuará siendo:
-
-```text
-http://127.0.0.1:5000/panel
-```
-
-El identificador `1001` no aparece en la barra de direcciones.
-
-La aplicación está realizando una petición en segundo plano.
-
----
-
 ## 7. Descubrir la petición con Burp Suite
 
 Volver a Burp Suite y entrar en:
