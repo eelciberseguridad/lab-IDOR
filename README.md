@@ -356,7 +356,7 @@ La aplicación comprueba que existe una sesión autenticada.
 
 También comprueba que el documento solicitado existe.
 
-Pero no comprueba:
+Pero no comprueba si:
 
 ```text
 ¿El usuario autenticado está autorizado
