@@ -4,6 +4,11 @@ Laboratorio práctico y deliberadamente vulnerable para aprender a identificar u
 
 > ⚠️ **ADVERTENCIA:** este laboratorio tiene fines exclusivamente educativos y de capacitación en ciberseguridad. Debe ejecutarse únicamente en equipos, máquinas virtuales y entornos propios, controlados o expresamente autorizados.
 
+## IDOR (Insecure Direct Object Reference) es una vulnerabilidad de control de acceso que ocurre cuando una aplicación permite acceder a recursos mediante referencias o identificadores sin verificar correctamente si el usuario tiene autorización para acceder a ellos.
+En esencia, el sistema identifica al usuario, pero falla al comprobar qué información o recursos tiene permitido consultar o modificar.
+
+---
+
 ## Objetivo
 
 La aplicación autentica correctamente a un usuario, pero contiene intencionalmente una falla de autorización.
